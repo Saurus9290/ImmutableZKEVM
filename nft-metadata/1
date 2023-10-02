@@ -1,0 +1,17 @@
+{
+ "id": 1,
+ "image": "https://bronze-immediate-dinosaur-188.mypinata.cloud/ipfs/QmRvvKsojri8aLZjiwqGdLcinyxXnoP6TnNf5sqKbUVPMF?_gl=1*1epv5ku*_ga*NDk0MjY3NDYxLjE2OTYyMjU5NDc.*_ga_5RMPXG14TE*MTY5NjI1NzYxNy4yLjEuMTY5NjI1ODM4MS41LjAuMA..",
+ "token_id": "1",
+ "background_color": null,
+ "animation_url": null,
+ "youtube_url": null,
+ "name": "My First NFT",
+ "description": "This NFT is my first zkEVM NFT created on Immutable",
+ "external_url": null,
+ "attributes": [
+  {
+   "trait_type": "Rarity",
+   "value": "Unique"
+  }
+ ]
+}
